@@ -1,8 +1,5 @@
 # oregon-choropleth
 
-Current result: 
-![Chorolpleth of Oregon counties](https://github.com/adamgibbons/oregon-choropleth/blob/master/formatted/or-counties-threshold.svg)
-
 ## Resources
 
 County-level data for Oregon:
@@ -92,3 +89,6 @@ topo2geo counties=- \
   | geo2svg -n --stroke none -p 1 -w 960 -h 960 \
   > formatted/or-counties-threshold.svg
 ```
+
+## Result
+![Chorolpleth of Oregon counties](https://github.com/adamgibbons/oregon-choropleth/blob/master/formatted/or-counties-threshold.svg)
