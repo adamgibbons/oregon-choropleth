@@ -1,5 +1,8 @@
 # oregon-choropleth
 
+Current result: 
+![Chorolpleth of Oregon counties](https://github.com/adamgibbons/oregon-choropleth/blob/master/formatted/or-counties-threshold.svg)
+
 ## Resources
 
 County-level data for Oregon:
